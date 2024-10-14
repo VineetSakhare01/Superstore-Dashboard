@@ -3,7 +3,6 @@
 The Superstore is facing a competitive retail landscape and needs to optimize its sales strategy. They have provided you with historical sales data encompassing factors like product category, region, shipping method, customer segment, and profit margin. Your task is to create a data dashboard that helps identify key trends and answer critical questions
 
 Insights
-A single page report was created on Power BI Desktop & it was then published to Power BI Service.
 
 👉 California has maximum Sales and highest Profits in United States.
 
