@@ -1,17 +1,26 @@
 # Superstore-Dashboard
 
-•OBJECTIVE
+The Superstore is facing a competitive retail landscape and needs to optimize its sales strategy. They have provided you with historical sales data encompassing factors like product category, region, shipping method, customer segment, and profit margin. Your task is to create a data dashboard that helps identify key trends and answer critical questions
 
-To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
+Insights
+A single page report was created on Power BI Desktop & it was then published to Power BI Service.
 
-•LEARNING
+👉 California has maximum Sales and highest Profits in United States.
 
-Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
+👉 The maximum Sales is accounted in West region (33%) followed by East.
 
-I've Created a dashboard in Power BI. That provides the major valuable insights of
-data of Super Store. Through this Project. I have learnt some good things that helps me to get deeper insights of data sets like,
- 
-📌 Data cleaning
-📌 Data Transformation
-📌 Data analysis
-📌 Creating Dashboards
+👉 In year 2019 and 2020, the maximum Sales is accounted in November and December.
+
+👉 Office supplies accounts Maximum sales followed by Technology and Furniture
+
+👉 In both years, Profit margin increases by the end of the year.
+
+👉 Standard class shipping mode encounters maximum Sales (0.91M).
+
+Recommendations
+
+💡 Focus marketing efforts on California and the West region since they have shown to have the maximum sales and highest profits. Allocate more resources towards advertising, promotions, and customer engagement initiatives in these areas to further capitalize on their potential.
+
+💡 Leverage the sales trends observed in November and December by implementing targeted seasonal promotions and discounts during these months to drive higher sales volume. Consider offering bundle deals, holiday-themed promotions, or limited-time offers to attract customers.
+
+💡 Since office supplies account for the maximum sales, consider expanding the product offerings within this category or introducing new, high-demand office supply products to further capitalize on this segment. Additionally, continue to invest in the technology and furniture categories to maintain their growth momentum.
